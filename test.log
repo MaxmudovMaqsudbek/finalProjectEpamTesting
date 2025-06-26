@@ -643,3 +643,53 @@
 2025-06-26T20:38:36.114Z [info]: Login attempt with username: performance_glitch_user
 2025-06-26T20:38:36.573Z [info]: Clicked login button
 2025-06-26T20:38:36.573Z [info]: Login attempt with username: performance_glitch_user
+2025-06-26T21:13:07.669Z [info]: Opened login page
+2025-06-26T21:13:07.924Z [info]: Entered username: 
+2025-06-26T21:13:08.079Z [info]: Entered password
+2025-06-26T21:13:08.224Z [info]: Clicked login button
+2025-06-26T21:13:08.224Z [info]: Login attempt with username: 
+2025-06-26T21:13:08.595Z [info]: Opened login page
+2025-06-26T21:13:08.780Z [info]: Entered username: 
+2025-06-26T21:13:08.960Z [info]: Entered password
+2025-06-26T21:13:09.255Z [info]: Clicked login button
+2025-06-26T21:13:09.255Z [info]: Login attempt with username: 
+2025-06-26T21:13:11.644Z [info]: Opened login page
+2025-06-26T21:13:11.853Z [info]: Entered username: standard_user
+2025-06-26T21:13:12.071Z [info]: Entered password
+2025-06-26T21:13:12.219Z [info]: Clicked login button
+2025-06-26T21:13:12.219Z [info]: Login attempt with username: standard_user
+2025-06-26T21:13:12.523Z [info]: Opened login page
+2025-06-26T21:13:14.300Z [info]: Entered username: standard_user
+2025-06-26T21:13:14.511Z [info]: Entered password
+2025-06-26T21:13:14.801Z [info]: Clicked login button
+2025-06-26T21:13:14.802Z [info]: Login attempt with username: standard_user
+2025-06-26T21:13:17.306Z [info]: Opened login page
+2025-06-26T21:13:17.911Z [info]: Entered username: standard_user
+2025-06-26T21:13:18.203Z [info]: Entered password
+2025-06-26T21:13:18.575Z [info]: Clicked login button
+2025-06-26T21:13:18.575Z [info]: Login attempt with username: standard_user
+2025-06-26T21:13:19.327Z [info]: Opened login page
+2025-06-26T21:13:19.941Z [info]: Entered username: standard_user
+2025-06-26T21:13:20.708Z [info]: Entered password
+2025-06-26T21:13:21.166Z [info]: Clicked login button
+2025-06-26T21:13:21.166Z [info]: Login attempt with username: standard_user
+2025-06-26T21:13:23.874Z [info]: Opened login page
+2025-06-26T21:13:24.247Z [info]: Entered username: problem_user
+2025-06-26T21:13:24.722Z [info]: Entered password
+2025-06-26T21:13:25.030Z [info]: Clicked login button
+2025-06-26T21:13:25.030Z [info]: Login attempt with username: problem_user
+2025-06-26T21:13:26.319Z [info]: Opened login page
+2025-06-26T21:13:26.651Z [info]: Entered username: problem_user
+2025-06-26T21:13:27.170Z [info]: Entered password
+2025-06-26T21:13:27.623Z [info]: Clicked login button
+2025-06-26T21:13:27.624Z [info]: Login attempt with username: problem_user
+2025-06-26T21:13:30.072Z [info]: Opened login page
+2025-06-26T21:13:30.522Z [info]: Entered username: performance_glitch_user
+2025-06-26T21:13:30.737Z [info]: Entered password
+2025-06-26T21:13:33.140Z [info]: Opened login page
+2025-06-26T21:13:33.658Z [info]: Entered username: performance_glitch_user
+2025-06-26T21:13:33.946Z [info]: Entered password
+2025-06-26T21:13:35.963Z [info]: Clicked login button
+2025-06-26T21:13:35.963Z [info]: Login attempt with username: performance_glitch_user
+2025-06-26T21:13:39.188Z [info]: Clicked login button
+2025-06-26T21:13:39.188Z [info]: Login attempt with username: performance_glitch_user
